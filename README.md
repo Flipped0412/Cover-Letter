@@ -2,7 +2,7 @@
   <img src="https://github.com/Flipped0412/Cover-Letter/blob/main/profilePic.jpg?raw=true" width="140" style="border-radius:50%;">
 </p>
 
-<h1 align="center"><strong>박&nbsp;준영</strong> · <span style="color:#4C8BF5;">Software&nbsp;Developer</span> 🚀</h1>
+<h1 align="center"><strong>박&nbsp;준영</strong> · <span style="color:#4C8BF5;">Software&nbsp;Developer</span> </h1>
 
 <p align="center">
   📞 010-8888-8888 · ✉️ <em>flipped0412@gmail.com</em> · 🏠 <a href="https://github.com/Flipped0412">GitHub</a>
