@@ -4,7 +4,7 @@
 
 # **Contacts**
 
-010-9045-8561 · [your.email@example.com](mailto:your.email@example.com) · *GitHub / Blog 링크가 있다면 여기에 추가*
+010-9045-8561 · [flipped0412@naver.com](flipped0412@naver.com) · *GitHub / Blog 링크가 있다면 여기에 추가*
 
 # **지원 직무**
 
