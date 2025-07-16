@@ -1,6 +1,5 @@
-<!-- 프로필 사진 (로컬 파일이면 /images/profile.jpg 식 경로, 웹 URL도 가능) -->
 <p align="center">
-  <img src="profile.jpg" alt="Profile Photo" width="140" style="border-radius:50%;">
+  <img src="(https://github.com/Flipped0412/Cover-Letter/blob/main/profilePic.jpg)?raw=true" width="140" style="border-radius:50%;">
 </p>
 
 <h1 align="center"><strong>Junyoung&nbsp;Park</strong> · <span style="color:#4C8BF5;">Software&nbsp;Developer</span> 🚀</h1>
