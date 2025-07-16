@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://github.com/Flipped0412/Cover-Letter/blob/main/profilePic.jpg)?raw=true" width="140" style="border-radius:50%;">
+  <img src="https://github.com/Flipped0412/Cover-Letter/blob/main/profilePic.jpg?raw=true" width="140" style="border-radius:50%;">
 </p>
 
 <h1 align="center"><strong>Junyoung&nbsp;Park</strong> · <span style="color:#4C8BF5;">Software&nbsp;Developer</span> 🚀</h1>
